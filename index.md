@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Favorite Things
 
 You can use the [editor on GitHub](https://github.com/KenyattaMadison/My-favorite-things-2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
